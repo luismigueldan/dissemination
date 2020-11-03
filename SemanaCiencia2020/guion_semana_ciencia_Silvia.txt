@@ -1,0 +1,153 @@
+1-6: Explicar que en IMDEA estudiamos el software.
+Motivar que es importante para evitar errores muy molestos
+que suceden siempre cuando peor te viene.
+7-10: Desde un punto de vista humano, resolver una funcion con
+una incognita es bastante simple. Sin embargo a medida que se
+incluyen nuevas funciones las probabilidades de que falles en 
+alguna son altas. Y si ya empezamos a meter otras incognitas
+las probabilidades crecen brutalmente.
+11-12: Esos fallos se pueden quedar en una molestia al no
+poder hablar por whatsapp o se cuelgue tiktok o ya algo mucho 
+mas serio como que un avion no funcione correctamente.
+13-14: Ademas de verificacion de software, tambien estudiamos
+la seguridad de los sistemas. Cada vez hay mas ataques y mas sofisticados
+(pon otras noticias porque poner algo de 2017 como que... xD)
+15-19: Para entender como se analiza la seguridad de los sistemas
+vamos a poner un ejemplo. Vamos a asegurar nuestra casa. 
+Para ello ponemos una puerta blindada que tendra ademas un lector
+de huella dactilar. Por supuesto, tendra alarma con sensores de
+ultima generacion, es mas, pondremos cuerpos de seguridad en la 
+misma puerta. Para finalizar pondremos tres camaras enfocando
+a la puerta para que no haya ninguno angulo muerto. Si no se hace
+un debido analisis de seguridad, aun asi este sistema es facilmente
+rompible. Si antes de irme de casa dejo la ventana abierta, da
+igual todos los esfuerzos que haya puesto en la puerta que mi casa
+esta desprotegida. 
+20: En IMDEA trabajamos para confirmar que esto no pase etcetc.
+Pedro aqui comento que ademas se hacen estancias fuera, que hay
+muchisimo intercambio de gente y demas.
+21-31: Decir que les pones sumas para que entren en calor. 
+Que vayan levantando la mano. Habra muchisimas manos simplemente 
+elige una y que vaya rapidito.
+32-39: Vale chicos, en este punto ya habeis alcanzado el nvel que tiene
+un mono. ¿Que pasaria si os ponen estas sumas tan largas?
+40: a alguien se le ocurre un metodo para sumar este numero tan
+largo entre cuatro o cinco personas??
+41-48: explicar paralelizacion
+49-54: la primera suma que compita una persona contra tres sumando 
+a la vez. Luego una contra cuatro y por ultimo una contra seis.
+La reflexion es que muy bien con tres personas son mas rapidos
+pero luego coordinar seis personas es un circo asi que hay que controlar
+cuantos procesos se tienen etc.
+55-65: otras maneras de paralelizar problemas.
+66-74: una vez se ha visto para que sirve la concurrencia se muestran
+problemas que necesitan especial atencion. Se ponen ejemplos basicos como dos
+personas que van en sentidos opuestos y ambas eligen irse al mismo lado para
+evitar chocarse y aun asi acaban chocandose. Otro ejemplo es todos los 
+pasajeros del metro saliendo a la vez, coches en la interseccion que todos
+deben dejar al de la derecha o la cena de los filosofos, el clasico
+problema de concurrencia.
+75-80: se enuncia cual es el problema y se deja a los alumnos que traten
+de solucionarlo de manera intuitiva.
+81: que es la criptografia y cual es la diferencia con la esteganografia.
+Introducir el concepto de clave, texto en claro y texto cifrado.
+Preguntarles cual es la clave del objeto del centro de la diapositiva.
+82-84: cesar no quiere que los galos les intercepten los mensajes por
+lo que decide cifrarlos.
+85-87: asi cuando vuelvan a interceptar los mensajes no sabran como interpretarlos.
+88-91: mostrar como funciona el cifrado cesar usando el mismo ejemplo de 
+atacad al alba.
+92: preguntar a los alumnos si son capaces de sacar la clave de este mensaje
+y el texto en claro.
+93: yo no me quise meter a explicar en detalle el analisis de frecuencias asi 
+que simplemente lo comente en voz alta pero no hice diapositiva de ese analisis.
+94-98: un texto cifrado es como mezclar pinturas. Si tienes el rosa y el azul 
+te sale el morado. 
+99: Si tienes el texto en claro, es decir el rojo y tienes el texto cifrado
+el naranja, es dificil encontrar el color exacto que mezclado con ese rojo
+dan exactamente ese naranja.
+100-108: intercambio de claves diffie hellman. Basandonos en la dificultad
+de sacar un color de la mezcla sabiendo el resultado vamos a explicar el
+intercambio de claves. Si asumimos que alice y bob
+quieren comunicarse y entre medias esta eve cotilleando todo, tienen que 
+encontrar una manera de comunicarse sin que eve pueda leerlo.
+De esa manera cada uno elige un color y lo aplica al color base, 
+ese color base lo sabe todo el mundo, hasta eve. Pero lo que eligen cada
+uno de ellos es secreto.
+Cuando consiguen la mezcla se la envian el uno al otro. Esos envios
+los puede ver eve tambien.
+Cuando Alice tiene la mezcla de bob y bob la de Alice, vuelven a aplicar su 
+color a la mezcla. 
+De esa manera, ambos obtendran la misma mezcla aunque la hayan aplicado 
+en distinto orden.
+109-118: explicamos que son los cifrados asimetricos mediante una caja con 
+dos candados. Al principio la caja esta abierta. Cuando Alice quiere comunicarse
+con bob, mete el mensaje y coge el candado de bob para cerrar la caja. Asi solo
+bob sera el que pueda abrir la caja, ya que es el unico que tiene la llave.
+Cuando bob lea el mensaje y quiera responder a alice hara lo mismo,
+meter un nuevo mensaje pero cerrando con el candado de alice.
+De esa manera pueden comunicarse teniendo cada uno su llave y sin compartirla 
+con nadie mas. 
+119-121: mostramos la importancia de mantener unas reglas a la hora de comunicarse.
+El primer problema es igual que el segundo pero escrito en otro lenguaje
+con otras notaciones. Hay que tener claras las unidades o acabas cometiendo errores.
+123: aquiles y la tortuga es un claro ejemplo de un problema mal enunciado porque si no se pueden cometer errores.
+124-125: les decims que vamos a hacer un nuevo lenguaje que solo va 
+a poder tener las letras M I U
+126-128: de esa manera si tenemos algo de la forma xI vamos a poder sustituirlo por xIU y asi con todas las reglas.
+129: para que quede claro decimos que si tenemos MI al inicio, si 
+usamos la regla dos tendremos MII ya que consiste en duplicar 
+lo que este a la derecha de la M. Si miramos la regla 1, sabemos
+que si tenemos una palabra terminada en I podemos meterle una U
+detras asi que de esa manera podemos sacar MIIU.
+Si volvemos a usar la regla dos, como duplica todo lo que esta a la
+derecha de la M, sacamos MIIUIIU
+Les damos nuevas reglas y les pedimos que saquen MUIIU desde MI
+Despues les pedimos que saquen MU. Esta no se puede sacar 
+pero hay que dejarles que esten un buen rato intentandolo hasta que
+lleguen a la conclusion de que no se puede y razonen por que.
+133-134: introducimos un sistema pq con los simbolos.
+135: se introduce el concepto de axioma.
+136-137: al meter una regla se ponen ejemplos y se les pregunta si hay alguna que crean que no es correcta y por que. Las siguientes diapos son la solucion.
+140: antes de ponerla se les pregunta si saben que esta sucediendo. 
+Se trata de llegar a la conclusion de que es la operacion suma:
+El primer ejemplo es como 0+1=1, 0+2=2,etc. 
+El segundo ejemplo esta mal porque dice 1+2=2 y el ultimo es
+1+1=2,1+2=3 etc.
+141: empezamos con la robotica. Un robot analiza estimulos del 
+entorno, evalua sus reglas internas, actua en el entorno y 
+como ha sido modificado tiene que volver a analizarlo por si
+se cumple alguna de sus reglas etc
+142: se pone un ejemplo y se les dice que el robot sabe diferenciar 
+matraces y colores
+143: ademas se le dice como se deben colocar los matraces en funcion
+de sus caracterisicas
+144: se les deja que resuelvan el problema.
+145:el robot ira evaluando todas las posibilidades regla a regla.
+146: como ha actuado sobre el mundo, la siguiente regla ahora 
+le sirve para tachar posibilidades que antes tenia.
+148: con un conjunto menor vuelve a mirar sus reglas y ve que puede aplicar la tres
+150: sollo habia una opcion posible.
+152: se enuncia el test de turing que les va a llamar muchisimo 
+la atencion. Empezamos diciendo que a simple vista parece sencillo
+diferenciar un robot de un humano pero no lo es tanto.
+El test de turing consiste en hacer que una persona se comunique
+con una maquina. Si esa maquina consigue hacerle creer que es humano
+entonces ha pasado el test de turing.
+Con esto comienzan temas muy interesantes. Por ejemplo, cuando
+pensamos en un ordenadr intentamos que sea lo mas rapido posible.
+Sin embargo si intentamos hacerle creer al humano que no es una maquina,
+podemos hacer que la maquina de respuestas erroneas un numero
+de veces o ralentizar el tiempo de respuesta de algunas operaciones para acercarlo al tiempo que se tomaria una persona.
+
+Luego hice un kahoot usando la pagina
+https://thispersondoesnotexist.com/
+Les puse tres ejemplos haciendoles la pregunta de si era una
+persona real o esta hecha por machine learning. En las fotos
+me paraba y les mostraba el nivel de detalle de las luces
+y sombras, de las arrugas, los poros, etc.
+Luego tambien puse algun minivideo con deepfakes para que vieran
+que son complejos de discernir si el video es real o no.
+
+
+
