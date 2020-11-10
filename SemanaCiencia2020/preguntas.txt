@@ -1,0 +1,73 @@
+Propuestas de actividades:
+
+
+----------------------------------------
+Concurrencia
+----------------------------------------
+
+Indica si las siguientes situaciones se corresponden con problemas de concurrencia:
+
+1. Dos personas caminan por la misma dirección pero en sentidos opuestos y se chocan. (V)
+2. Varias personas quieren salir del metro al mismo tiempo. (V)
+3. Cinco nadadores nadando al mismo tiempo en una piscina dividida en cinco andariveles, cada uno en un andarivel distinto. (F)
+4. La situación de tráfico descripta en la imagen (deadlock.gif). (V)
+
+----------------------------------------
+Criptografía
+----------------------------------------
+
+Actividad 1
+Pregunta 1 (Type Answer):
+Te proponemos cifrar el siguiente mensaje, usando el Cifrado de Cesar con clave 8:
+
+“EL MAPA INDICA LA RESPUESTA”
+
+Respuesta:
+MT UIXI QVLQKI TI ZMAXCMABI
+
+Pregunta 2 (Type Answer):
+Te proponemos descifrar el siguiente mensaje, sabiendo que se ha usado el Cifrado de Cesar con clave 10.
+
+“XYC OXMYXDBKWYC K VKC COSC ZW”
+
+Respuesta:
+NOS ENCONTRAMOS A LAS SEIS PM
+
+Pregunta 3 (Type Answer):
+
+Te proponemos descifrar el siguiente mensaje, sabiendo que se ha usado el Cifrado de Cesar, pero sin saber la clave:
+
+“QF HFOF D QF MTOF”
+
+Respuesta:
+LA CAJA Y LA HOJA
+
+Actividad 2
+
+Pregunta 1 (Type Answer):
+
+Indica el resultado de multiplicar 41351 y 75853. Puedes usar calculadora.
+
+Respuesta: 3136597403.
+
+Pregunta 2 (Type Answer):
+Encuentra dos números a y b tales que al multiplicarlos se obtiene 1681538249. Puedes usar calculadora.
+
+Respuesta: 20123 y 83563.
+
+----------------------------------------
+Sistemas Formales
+----------------------------------------
+
+Verdadero o falso:
+
+1. Es posible generar MUIIU a partir del axioma MI.
+
+2. Es posible generar IMU a partir del axioma MI.
+
+3. Es imposible generar MU a partir del axioma MI.
+
+Respuestas:
+V
+F
+V 
