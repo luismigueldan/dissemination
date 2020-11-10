@@ -1,0 +1,45 @@
+
+Pregunta 1 (datafono.png) - 30s:
+
+Cuando se encripta un mensaje para mandarlo:
+- El procedimiento para encriptar es público y el mensaje es privado
+- El procedimiento para encriptar es privado y el mensaje es público
+- Ambos son públicos
+- Ambos son privados
+
+Pregunta 2 (imagen cesar8.png) - 90s:
+
+Cifra el siguiente mensaje, usando el Cifrado de Cesar con clave 8:
+
+“EL MAPA INDICA LA RESPUESTA”
+
+¿Cuál es la opción correcta?
+
+MT UIXI RVLRKI TI ZMAXCMABI
+MT UIXI QVLQKI TI ZMAXCMABI (correct)
+MS UIXI RVLRKI SI ZMAXCMABI
+MT UIWI QVLQKI TI ZMAWCMABI
+
+Pregunta 3 (imagen cesar10.png) - 90s:
+
+El siguiente mensaje se ha cifrado usando el Cifrado de Cesar con clave = 10.
+“XYC FOWYC K VKC COSC OX ZEXDY”
+Sabiendo que tardas una hora en llegar al escondite secreto de tu grupo, ¿a qué hora debes iniciar el viaje?
+
+5:00 (correcta)
+6:30
+
+5:30
+6:00
+
+Pregunta 4 - verdadero o falso (cesar.png) - 30s:
+
+El cifrado de César es más difícil de romper que el monoalfabético
+
+Respuesta: falso
+
+Pregunta 5 - ¿Qué ocurría en las instalaciones de Bletchley Park durante la Segunda Guerra Mundial? (pregunta5.png) - 30s
+- Se estudiaba un yacimiento arqueológico
+- Se estudiaban las conexiones neuronales del cerebro de chimpancés
+- Se descifraban mensajes del bando contrario   (correcta)
+- Se celebraban banquetes para los soldados 
