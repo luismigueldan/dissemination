@@ -6,7 +6,7 @@ Verdadero o falso:
 
 3. Es imposible generar MU a partir del axioma MI.
 
-Para todas las preguntas, la imagen miu
+Para todas las preguntas, la imagen MIU.pdf
 
 Respuestas:
 V
