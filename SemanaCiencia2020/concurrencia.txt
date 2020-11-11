@@ -1,0 +1,18 @@
+Responde la afirmación verdadera para las siguientes situaciones se corresponden con problemas de concurrencia:
+
+1. Dos personas caminan por la misma dirección pero en sentidos opuestos y se chocan.
+    Actores:personas; recurso: sentido opuesto
+    Actores:personas; recurso: espacio (Correcta)
+    No es un problema de concurrencia
+2. Varias personas quieren salir por la misma puerta del metro al mismo tiempo.
+   Actores:personas; recurso: espacio de la puerta (Correcta)
+   Actores:personas; recurso: direccion por la que salen
+   No es un problema de concurrencia
+3. Cinco nadadores nadando al mismo tiempo en una piscina dividida en cinco andariveles, cada uno en un andarivel distinto. (F)
+   Actores:personas; recurso: espacio del carril
+   Actores:personas; recurso: espacio de la piscina
+   No es un problema de concurrencia (Correcta)
+4. La situación de tráfico descripta en la imagen (deadlock.gif). (V)
+   Actores:personas; recurso: direcciones cruzadas
+   Actores:personas; recurso: espacio del cruce (Correcta)
+   No es un problema de concurrencia

@@ -1,0 +1,22 @@
+** Que es IMDEA Software y como es la vida de un investigador
+*** Instituto de Investigacion en Software de la CAM.
+    Departamentos: Analisis de Programas y Verificacion, Seguridad y Privacidad, Lenguajes Compiladores y Sistemas...
+    Puestos: researcher, postdoc, phd-student, becario...
+*** Como llegar a investigar en Software?
+    Instituto, Bachiller, Selectividad, Grado universitario y antes de acabar ya se puede entrar de becario (Aldana) en IMDEA Software.
+    Master, Estudiante de Doctorado(Isabel o yo). Mas adelante es terminar el doctorado, buscar postdoctorado...
+*** La tarea principal es realizar investigacion, ¿que es investigar en general?
+    Encontrar un problema interesante, que no esté resuelto ya, se plantea una hipotesis o 
+    una nueva metodología o un nuevo algoritmo para solucionar ese problema y después pasamos a 
+    comprobar que efectivamente lo que proponemos resuelve el problema. 
+    Por último y casi lo más importante es compartir lo que hemos descubierto con el resto del mundo y ¿como lo hacemos? 
+    Publicando ya sea en conferencias, artículos de revistas, haciendo posteres, workshops, o cualquier otra forma de llegar 
+    a otros investigadores que pueden utilizar lo que hemos descubierto para continuar su investigación. 
+    Esto es escribir de una forma clara concisa y asequible para otros investigadores, muchas veces de otros paises y que entiendan la aportación.
+*** ¿Que es investigar en software?
+    En Software los problemas suelen ser cómo conseguir una forma mecánica (algorítmica) de solucionar problemas, 
+    dentro de unas condiciones concretas.
+    Las soluciones suelen ser algoritmos o metodologías para solucionar los problemas y la verificacion 
+    la podemos realizar esta comprobación de dos formas, con una prueba matemática 
+    (usamos las matemáticas para que nos digan si la solución es correcta), 
+    o realizamos una implementación (programando) la solución y observamos los resultados, si son los esperados es que la solución es correcta. 
