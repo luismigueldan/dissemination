@@ -1,0 +1,105 @@
+Kahoot:
+
+- https://create.kahoot.it/share/ia-or-human/38435193-e3f2-4154-b9cc-5a4682795fe1
+- https://create.kahoot.it/details/paralizacion-para-resolver-problemas-matematicos/df02512b-dd6d-4a9e-85a7-a08c66856408
+
+Guión (tiempo total previsto 95 min):
+
+1. Paralelización
+   5 minutos charla previa explicando qué es y para qué sirve la paralelización y poner algún ejemplo
+   10 minutos para actividad completa
+
+- Explicar brevemente paralelización.
+- Explicar cómo sumar en paralelo dos números grandes.
+- Darles el kahoot.
+- Discutir sobre la importancia de la paralización, mencionar otros casos de uso, etc.
+
+
+2. Concurrencia
+   5 minutos charla previa explicando qué es y para qué sirve la concurrencia y poner algún ejemplo
+   10 minutos para actividad completa
+
+- Explicarles de manera sencilla de qué trata la concurrencia (y en lugar de
+  darles ejemplos, darles una actividad en kahoot para que ellos mismos
+  identifiquen problemas de concurrencia, ver siguiente punto).
+
+- Kahoot de formato verdadero/falso en donde ellos identifiquen situaciones de
+  la vida cotidiana que tengan que ver con problemas de concurrencia (ver
+  abajo).
+
+- Luego, podemos hablar de posibles soluciones para los problemas del kahoot.
+  Por ejemplo, en el caso 1, proponer correrse siempre a la derecha; para 2,
+  hacer una o varias filas (según el tamaño de las puertas); para 4 poner
+  semáforos.
+
+- Explicar que los problemas de concurrencia son muy importantes en el software, ya que no atenderlos trae consecuencias graves, como que el sistema no avance.
+
+3. Criptografía
+   5 minutos charla previa explicando qué es, cómo nació y para qué sirve la criptografía y poner algún ejemplo
+   10 minutos para actividad completa
+
+- Breve introducción (decir en lenguaje sencillo, entendible para ellos en qué
+  consiste la criptografía, hablar de los conceptos de texto plano, texto
+  cifrado, algoritmo criptográfico y clave).
+
+- Dar un ejemplo de uso cotidiano: el comercio electrónico. Discutir sobre la
+  importancia de la criptografía.
+
+- Hacer hincapié en que la criptografía tiene que ver con la necesidad de
+  mantener el secreto en las comunicaciones, con lo cual no es algo relevante
+  sólo en los tiempos actuales, sino que ya se usaba criptografía antes. Dar dos
+  ejemplos de eso: aprovechar la imagen de la escítala de la slide 81
+  (espartanos) y contarles sobre el cifrado de Cesar (romanos).
+
+- Kahoot actividad 1: cifrado de Cesar. Una pregunta para que cifren, otra para
+  que descifren y otra para que intenten obtener el texto plano y la clave a
+  partir del texto cifrado (ver abajo).
+
+- Reflexionar sobre el último ejercicio. Explicar que si sabemos cuál es el
+  algoritmo, es fácil obtener el mensaje original en el Cifrado de Cesar (porque
+  hay 26 claves posibles, por análisis de frecuencia, etc).
+
+- Explicar que, entonces, para que este método sea exitoso, hay que mantener
+  ocultos tanto la clave como el algoritmo, pero que hoy en día se sabe que la
+  fortaleza de un método criptográfico debe residir en mantener oculta la clave,
+  no el algoritmo. Es decir, que para que un método sea “bueno”, debe ser tal
+  que aún si le explicas el algoritmo a tu peor enemigo, este no pueda descifrar
+  los mensajes (porque no sabe la clave y es muy difícil “adivinarla”).
+
+- Hacer hincapié en que es MUY importante acordar una clave y mantenerla en
+  secreto, pero: ¿cómo hacen Alice y Bob para acordar una clave si están lejos
+  uno del otro?
+
+- Kahoot actividad 2: una pregunta para que hagan una multiplicación de dos
+  números primos y una pregunta para que encuentren a, b tal que a.b =
+  un_nro_muy_grande. Pueden usar calculadora (ver abajo).
+
+La idea es mostrar que, seguramente, todos han respondido bien la primer pregunta pero nadie la segunda.
+Con esto, explicar que hay operaciones que son fáciles de hacer pero difíciles de deshacer.
+
+- Explicar Diffie-Hellman con colores.
+
+- Ahora Alice y Bob ya pueden tener una clave. Pero si Alice quiere comunicarse
+  con Cecil, ahora tendrían que acordar otra clave (porque sino Bob podría leer
+  los mensajes). Explicar cómo la criptografía asimétrica resuelve este
+  problema.
+
+
+4. Sistemas formales
+   5 minutos charla previa explicando qué es y para qué sirven los sistemas formales y poner algún ejemplo
+   10 minutos para actividad completa
+
+- Hablar de mantener reglas claras a la hora de comunicarnos. Ver ejemplo de la
+  slide con el mismo problema en idiomas distintos, otras unidades, etc.
+- Mencionar que el lenguaje natural suele tener ambigüedades y que en
+  computación necesitamos eliminar cualquier ambigüedad.
+- Explicar la importancia de los lenguajes formales en la computación.
+- Dar un ejemplo de lenguaje formal (usar slides de MIU).
+- Kahoot con verdadero o falso sobre MIU (ver abajo).
+
+
+5. IA o humano
+   5 minutos charla previa explicando qué es la IA y el test de Turing y poner algún ejemplo
+   10 minutos para actividad completa
+
+Total 75 min

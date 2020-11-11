@@ -1,0 +1,14 @@
+Verdadero o falso:
+
+1. Es posible generar MUIIU a partir del axioma MI.
+
+2. Es posible generar IMU a partir del axioma MI.
+
+3. Es imposible generar MU a partir del axioma MI.
+
+Para todas las preguntas, la imagen MIU.pdf
+
+Respuestas:
+V
+F
+V

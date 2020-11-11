@@ -1,0 +1,53 @@
+Kahoot Paralelización
+
+Pregunta 1: (40 segundos)
+¿Cuál es el resultado correcto de esta suma?
+Importante: resuelve usando lápiz y papel.
+
+suma1.pdf
+
+Opciones:
+13085035
+13086035 (correcta)
+14086035
+23086035
+
+Pregunta 2: (40 segundos)
+¿Cuál es el resultado correcto de esta suma?
+Importante: resuelve usando lápiz y papel.
+
+suma2.pdf
+
+Opciones:
+4173817
+4074817
+4073817 (correcta)
+4073917
+
+Pregunta 3: (40 segundos)
+¿Cuál es el resultado correcto de esta suma?
+Importante: resuelve usando lápiz y papel.
+
+suma3.pdf
+
+Opciones:
+14846423
+15844423
+14845423 (correcta)
+15845423
+
+
+Pregunta 4: (50 segundos)
+¿Cuál es el resultado correcto de esta suma?
+
+suma4.pdf
+
+Opciones:
+98484542340738183086035 (correcta)
+97484542340738173086035
+98484542350738183086035
+97484542340738183086035
+
+Pregunta 5: (60 segundos)
+
+Esta imagen refleja cómo realizar una suma de ocho números en paralelo.
