@@ -51,3 +51,10 @@ Opciones:
 Pregunta 5: (60 segundos)
 
 Esta imagen refleja cómo realizar una suma de ocho números en paralelo.
+
+suma5.png
+
+Opciones
+V (correcta)
+F
+

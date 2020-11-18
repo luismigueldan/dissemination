@@ -1,0 +1,8 @@
+1-11  Realizar sumas sencillas
+12    Contarles sobre el experimento de la noticia.
+13-18 Mostrar que el procedimiento es el mismo, no es más difícil, pero lleva más tiempo porque son números más grandes.
+19-28 Explicar paralelización con la suma.
+-- Kahoot --
+29-35 Explicar la última pregunta del kahoot.
+36-39 Hablar de otros problemas. Explicar la importancia de la paralelización.
+

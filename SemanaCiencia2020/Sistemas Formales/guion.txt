@@ -1,0 +1,7 @@
+1-8   Hablar de la importancia de establecer reglas claras a la hora de comunicarnos.
+      Hablar de las ambiguedades del lenguaje natural.
+9-13  Hablar de la importancia de los sistemas formales en ciencias de la computación.
+14-27 Sistema MIU.
+-- Kahoot --
+28-40 Respuestas al kahoot. Para 2 y 3, explicar que debe demostrarse por qué no es posible.
+      Comentar brevemente qué es un invariante y cómo lo usamos para demostrar que no puede formarse una palabra. Dar esos dos ejemplos.
